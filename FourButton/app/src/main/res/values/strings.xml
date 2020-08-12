@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FourButton</string>
+    <string name="btn1">internet</string>
+    <string name="btn2">phone</string>
+    <string name="btn3">images</string>
+    <string name="btn4">end</string>
+</resources>
