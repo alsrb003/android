@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ViewEx01</string>
+    <string name="btn1">버튼1</string>
+    <string name="tv1">여긴 텍스트뷰입니다.</string>
+    <string name="btn2">버튼2</string>
+</resources>

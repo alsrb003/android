@@ -1,0 +1,12 @@
+<resources>
+    <string name="t1">textSize 속성</string>
+    <string name="t2">textColor 속성</string>
+    <string name="t3">textStyle 속성</string>
+    <string name="t4">textface 속성</string>
+    <string name="t5">singleLine 속성 singleLine 속성 singleLine 속성</string>
+
+    <string name="app_name">TextEx01</string>
+    <string name="tv1">TextView 연습 1</string>
+    <string name="tv2">TextView 연습 2</string>
+    <string name="tv3">TextView 연습 3</string>
+</resources>

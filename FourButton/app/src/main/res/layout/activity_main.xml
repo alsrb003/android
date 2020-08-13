@@ -20,24 +20,28 @@
         android:id="@+id/button3"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:rotation="5"
         android:text="@string/btn3" />
 
     <Button
         android:id="@+id/button4"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:rotation="-5"
         android:text="@string/btn4" />
 
     <Button
         android:id="@+id/button1"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:rotation="5"
         android:text="@string/btn1" />
 
     <Button
         android:id="@+id/button2"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:rotation="-5"
         android:text="@string/btn2" />
 
 </LinearLayout>

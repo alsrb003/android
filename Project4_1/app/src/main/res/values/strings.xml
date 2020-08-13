@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Project4_1</string>
+    <string name="btn1">더하기</string>
+    <string name="btn2">빼기</string>
+    <string name="btn3">곱하기</string>
+    <string name="btn4">나누기</string>
+    <string name="btn5">나머지값</string>
+    <string name="tv1">계산 결과: </string>
+</resources>

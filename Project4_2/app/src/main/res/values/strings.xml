@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Project4_2</string>
+    <string name="tv1">선택을 시작하겠습니까?</string>
+    <string name="tv2">좋아하는 과일은?</string>
+    <string name="cb1">선택함</string>
+    <string name="r1">사과</string>
+    <string name="r2">바나나</string>
+    <string name="r3">망고</string>
+    <string name="btn1">선택 완료</string>
+    <string name="start">처음으로</string>
+    <string name="end">종료</string>
+</resources>
