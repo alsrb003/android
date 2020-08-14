@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RelativeLayyout</string>
+    <string name="text">전화번호</string>
+    <string name="hint">000-0000-0000</string>
+    <string name="btn1">입력</string>
+    <string name="btn2">취소</string>
+</resources>
