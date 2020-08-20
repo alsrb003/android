@@ -14,6 +14,7 @@ public class Second extends AppCompatActivity {
         setContentView(R.layout.activity_second);
         Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse("http://192.168.219.113:8088/BoardCa/community/Clist.jsp"));
         startActivity(intent);
+        overridePendingTransition(0,0);
 
     }
 }
