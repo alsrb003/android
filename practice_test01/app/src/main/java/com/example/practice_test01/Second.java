@@ -12,7 +12,7 @@ public class Second extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_second);
-        Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse("http://192.168.219.113:8088/BoardCa/community/Clist.jsp"));
+        Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse("http://192.168.219.149:8088/BoardCa/Community_main.do"));
         startActivity(intent);
         finish();
         overridePendingTransition(0,0);
