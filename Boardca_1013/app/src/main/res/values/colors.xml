@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ededed</color>
+    <color name="colorPrimaryDark">#cccccc</color>
+    <color name="colorLightGray">#f1f1f1</color>
+    <color name="colorAccent">#fa8d00</color>
+    <!--#FF4081 기본색 / #463168 보라색 / #fa8d00 주황색-->
+
+
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorDivision">#e0e0e0</color>
+    <color name="colorNavIcon">#1d1d1d</color>
+
+    <color name="colorGoogleSignIn">#d34836</color>
+    <color name="colorGoogleSignInPressed">#b02513</color>
+    <color name="colorKakaoSignIn">#36231f</color>
+    <color name="colorEmailSignIn">#009688</color>
+    <color name="colorEmailSignInPressed">#004D40</color>
+
+    <color name="colorRed">#F70000</color>
+    <color name="colorBlue">#2196F3</color>
+    <color name="colorGray">#BEB7B7</color>
+    <color name="colorBlack">#000000</color>
+
+</resources>
+
